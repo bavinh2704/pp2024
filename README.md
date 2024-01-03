@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH CS/DS/MATH Lazine
-* Student ID: Not-Vietnamese
+* Student Name: Nguyen Ba Vinh
+* Student ID: 22BI13472
 
